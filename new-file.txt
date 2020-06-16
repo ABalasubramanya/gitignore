@@ -1,5 +1,5 @@
 // Ingnore single files
-//new-file.txt
+hai Buddy
 
 // Ignore files inside the folders
 Bin/
