@@ -1,1 +1,8 @@
+// Ingnore single files
 new-file.txt
+
+// Ignore files inside the folders
+Bin/
+
+//Ingnore files with .tmp extension
+*.tmp
