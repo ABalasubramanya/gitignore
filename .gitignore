@@ -3,6 +3,7 @@ another-file.txt
 
 // Ignore files inside the folders
 Bin/
+computer/
 
 //Ingnore files with .tmp extension
 *.tmp
