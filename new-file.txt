@@ -1,8 +1,1 @@
-// Ingnore single files
 hai Buddy
-
-// Ignore files inside the folders
-Bin/
-
-//Ingnore files with .tmp extension
-*.tmp
